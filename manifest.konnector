@@ -1,13 +1,13 @@
 {
   "version": "1.0.0",
-  "name": "Skillit",
+  "name": "Orientoi",
   "type": "konnector",
   "language": "node",
   "icon": "icon.svg",
-  "slug": "skillit",
-  "source": "git@github.com:paultranvan/skillit.git",
+  "slug": "orientoi",
+  "source": "git@github.com:paultranvan/orientoi.git",
   "editor": "Cozy",
-  "vendor_link": "https://skilit.io/",
+  "vendor_link": "https://www.orientoi.fr/",
   "categories": ["education"],
   "fields": {
     "login": {
@@ -37,8 +37,8 @@
   "langs": ["fr", "en"],
   "locales": {
     "fr": {
-      "short_description": "Récupère vos données Skillit",
-      "long_description": "Récupère vos données Skillit",
+      "short_description": "Récupère vos données Orientoi",
+      "long_description": "Récupère vos données Orientoi",
       "permissions": {
         "files": {
           "description": "Utilisé pour sauvegarder les données sous forme de fichier"
@@ -49,8 +49,8 @@
       }
     },
     "en": {
-      "short_description": "Fetch your data from Skillit",
-      "long_description": "Fetch your data from Skillit",
+      "short_description": "Fetch your data from Orientoi",
+      "long_description": "Fetch your data from Orientoi",
       "permissions": {
         "files": {
           "description": "Required to save data as file"
