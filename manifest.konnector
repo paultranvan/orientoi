@@ -7,7 +7,7 @@
   "slug": "orientoi",
   "source": "git@github.com:paultranvan/orientoi.git",
   "editor": "Cozy",
-  "vendor_link": "https://skilit.io/",
+  "vendor_link": "https://www.orientoi.fr/",
   "categories": ["education"],
   "fields": {
     "login": {
